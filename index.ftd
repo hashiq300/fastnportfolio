@@ -1,6 +1,8 @@
 -- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
 -- import: hashiq300.github.io/fastnportfolio/lib
+-- import: fastnui.trizwit.com/UI-Components/Contact/contact-1
+-- import: fastnui.trizwit.com/UI-Components/Contact/contact-2
 
 -- lib.page:
 
@@ -23,6 +25,20 @@ cover: $assets.files.assets.WIN_20220320_21_12_54_Pro.jpg
 
 Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. 
 Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
+
+
+
+
+
+-- contact-2.contact-2: Contact Me
+cta-button-1: Button
+link-1: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
+facebook: $assets.files.assets.tele.svg
+twitter: $assets.files.assets.twit.svg
+instagram: $assets.files.assets.insta.svg
+linkedin: $assets.files.assets.linkedin.png
+
+Send a message below, I will get back to as soon as possible
 
 
 -- end: lib.page
